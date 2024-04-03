@@ -1,0 +1,18 @@
+{
+    "title": "Software Engineer",
+    "company": {
+        "name": "ABC Tech",
+        "type": "IT Product",
+        "size": "500-1000 employees"
+    },
+    "working_model": "Remote",
+    "location": "Remote",
+    "level": "Mid/Senior",
+    "skills": ["Node.js", "React"],
+    "salary": "$80,000 - $100,000",
+    "description": "Developing web applications using Node.js and React",
+    "country": "USA",
+    "working_days": "Monday to Friday",
+    "overtime_policy": "No OT",
+    "expired_day": "2024-05-03"
+}
